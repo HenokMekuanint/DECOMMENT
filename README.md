@@ -1,1 +1,3 @@
 # DECOMMENT USING DETERMINISTIC FINITE AUTOMATA
+![DFA_DESIGN](https://user-images.githubusercontent.com/90408697/177046613-d002fdfc-53f8-468e-941e-b34ca03ea250.jpg)
+
